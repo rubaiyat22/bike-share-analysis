@@ -54,3 +54,5 @@ The data used in this analysis comes from Cyclistic's bike-share system, consist
 - Annual members have more consistent usage throughout the week, favoring classic bikes.
 - Recommendations include promoting longer rides for casual riders, creating weekend promotions, and reallocating bike fleets based on user preferences.
 
+More detailed findinings are in presentation.md
+
